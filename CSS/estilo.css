@@ -1,0 +1,179 @@
+body{
+	background-color:aquamarine;
+}
+#contenedor{
+	width: 100%;
+	background-color: indigo;
+	margin: 0 auto;
+		
+}
+
+header{
+	      background-color: darkslategray;
+	       height: 100px;
+	       imag src:encabezado.jpg;
+}
+
+img{
+	 width:100%;
+	 margin:0;
+	
+}
+nav{
+	width:100%;
+	height:40px;
+	background-color:#D0070A;
+	margin:0 auto;
+}
+nav ul{
+	background:#D0070A;
+	list-style-type:none;
+	text-align: center;
+	margin:0;
+}
+nav li{
+	display:inline-flex;
+
+}
+nav a{
+	text-decoration: none;
+	color:black;
+	padding:10px;
+	width: 100px;
+		
+	
+}
+nav li:hover{
+	background:#FFFFFF;
+
+}
+
+#Fondo1{
+	width:100%;
+}
+main{
+     width:70%;
+	margin:0;
+	float: left;
+	background-color:#E12629;
+	     
+}
+aside{
+	width:30%;
+	float: left;
+	background-color:darkmagenta;
+}		
+		
+.rojo{
+	 width: 50%;
+	float: left;
+}
+
+h1{
+	text-align:center;
+	background-color:aquamarine;
+	color:#000000;
+	height:469px;
+    margin:0;
+}
+p{text-align:center;
+	display: flex;
+	background-color:aquamarine;
+	color:lime;
+	margin:0;
+	height:0px;
+	font-family: Segoe UI;
+	padding:10px;
+	
+}
+h2{
+	 text-align: center;
+     background-color:darkorange;
+	cornflowerblue
+	padding:105PX;
+		 
+}
+
+.pos{text-align:justify;
+	display:flex;
+	color:black;
+	margin:0%;
+	height: 0px;
+	padding:50px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align: center;
+	font-size: 20px;
+	padding: 10px;
+
+
+}
+
+footer{
+	width:100%;
+	background-color:red;
+	float:left;
+}
+#piedepagina{
+	background:#DEB887;
+	list-style-type:none;
+	text-align: center;
+	margin: 0;
+	height: 50px;
+	
+}
+
+.redessociales{
+	display:inline-flex;
+	width: 5%;
+	padding: 10px;
+	
+}
+.Ubicacion{
+	
+	background:#DE8887;
+	text-align: center;
+	padding: 30px;
+	
+}
+
+.rosa{
+	width:5%;
+}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+}
+		
+		
